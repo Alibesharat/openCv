@@ -1,0 +1,15 @@
+/Users/alibesharati/Desktop/opencv/bin/Debug/net7.0/opencv
+/Users/alibesharati/Desktop/opencv/bin/Debug/net7.0/opencv.deps.json
+/Users/alibesharati/Desktop/opencv/bin/Debug/net7.0/opencv.runtimeconfig.json
+/Users/alibesharati/Desktop/opencv/bin/Debug/net7.0/opencv.dll
+/Users/alibesharati/Desktop/opencv/bin/Debug/net7.0/opencv.pdb
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/opencv.csproj.AssemblyReference.cache
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/opencv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/opencv.AssemblyInfoInputs.cache
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/opencv.AssemblyInfo.cs
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/opencv.csproj.CoreCompileInputs.cache
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/opencv.dll
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/refint/opencv.dll
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/opencv.pdb
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/opencv.genruntimeconfig.cache
+/Users/alibesharati/Desktop/opencv/obj/Debug/net7.0/ref/opencv.dll
